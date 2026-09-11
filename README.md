@@ -246,3 +246,6 @@ This repository serves as the official landing page for Checkers Deluxe. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Checkers Deluxe today!**
+
+---
+**Last updated:** 2026-09-11 17:37:58 UTC
