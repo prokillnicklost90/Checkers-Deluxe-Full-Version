@@ -248,4 +248,4 @@ This repository serves as the official landing page for Checkers Deluxe. The sof
 **Get the most recent version of Checkers Deluxe today!**
 
 ---
-**Last updated:** 2026-09-14 20:47:58 UTC
+**Last updated:** 2026-09-14 23:44:46 UTC
